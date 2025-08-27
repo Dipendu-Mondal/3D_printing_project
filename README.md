@@ -36,4 +36,3 @@ Analyzed and optimized multiple additive manufacturing (AM) processes to select 
 ## 🛠️ Tools & Skills
 Additive Manufacturing • DfAM • Trade-off & Multi-criteria Decision Making • Cost Modeling • Technical Writing & Presentation
 
-## 📂 Repository Structure
